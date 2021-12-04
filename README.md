@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![NithinShanmugamV's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithinShanmugamV&theme=dark&show_icons=true)
+
 <!--
 **NithinShanmugamV/NithinShanmugamV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
