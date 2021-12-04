@@ -1,18 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Nithin Shanmugam
+I am a front-end web developer
 
-![NithinShanmugamV's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithinShanmugamV&theme=dark&show_icons=true)
+Skills:  HTML / CSS / JS / NODEJS / REACT
 
-<!--
-**NithinShanmugamV/NithinShanmugamV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NithinShanmugamV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nithin-shanmugam-v-3b671b189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nithin_shanmugam_v/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NithinShanmuga4)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NithinShanmugamV)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinShanmugamV)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NithinShanmugamV&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/NithinShanmugamV)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NithinShanmugamV)  
+
